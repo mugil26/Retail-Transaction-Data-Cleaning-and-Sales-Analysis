@@ -102,11 +102,6 @@ The project also identifies the transaction row with the maximum purchase quanti
 | Pandas | Reading CSV files, data cleaning, data type conversion, discount calculations, grouping, aggregation, and exporting cleaned data. |
 | NumPy | Supporting numerical operations and data analysis. |
 
-## Project Files
-
-- Project_1.py – Python script containing the complete data cleaning and analysis workflow.
-- project_transactions.csv – Original retail transaction dataset.
-- cleaned_transactions.csv – Exported cleaned transaction dataset.
 
 ## How to Run the Project
 
